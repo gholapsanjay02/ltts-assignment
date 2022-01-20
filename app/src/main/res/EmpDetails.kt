@@ -1,0 +1,1 @@
+class EmpDetails : ArrayList<EmpDetailsItem>()
